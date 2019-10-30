@@ -1,0 +1,1 @@
+flask fab create-admin --username admin  --firstname admin --lastname user --email admin@websitename.provider --password admin123
